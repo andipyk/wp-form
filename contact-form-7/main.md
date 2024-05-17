@@ -10,6 +10,7 @@
 - [ ] Ulik-ulik CF7
 - [ ] Integrasi dengan gmail, kalau bisa ke whatsapp juga
 - [ ] coba export html,php,db. guttenberg ?
+- [ ] Figma UI Form implement
 
 # Add HTML Class or HTML ID
 
